@@ -1,0 +1,15 @@
+
+State Machine - |proj1|ctr:c1|reg_state
+Name reg_state.ExecJump reg_state.ExecStore_1 reg_state.ExecLoad_2 reg_state.ExecLoad_1 reg_state.ExecOR_2 reg_state.ExecOR_1 reg_state.ExecADD_2 reg_state.ExecADD_1 reg_state.Decode reg_state.Fetch_3 reg_state.Fetch_2 reg_state.Fetch_1 
+reg_state.Fetch_1 0 0 0 0 0 0 0 0 0 0 0 0 
+reg_state.Fetch_2 0 0 0 0 0 0 0 0 0 0 1 1 
+reg_state.Fetch_3 0 0 0 0 0 0 0 0 0 1 0 1 
+reg_state.Decode 0 0 0 0 0 0 0 0 1 0 0 1 
+reg_state.ExecADD_1 0 0 0 0 0 0 0 1 0 0 0 1 
+reg_state.ExecADD_2 0 0 0 0 0 0 1 0 0 0 0 1 
+reg_state.ExecOR_1 0 0 0 0 0 1 0 0 0 0 0 1 
+reg_state.ExecOR_2 0 0 0 0 1 0 0 0 0 0 0 1 
+reg_state.ExecLoad_1 0 0 0 1 0 0 0 0 0 0 0 1 
+reg_state.ExecLoad_2 0 0 1 0 0 0 0 0 0 0 0 1 
+reg_state.ExecStore_1 0 1 0 0 0 0 0 0 0 0 0 1 
+reg_state.ExecJump 1 0 0 0 0 0 0 0 0 0 0 1 

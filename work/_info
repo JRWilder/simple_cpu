@@ -1,0 +1,201 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/johna/OneDrive/Documents/Fall_2018/ECE_310/Project1
+valu
+Z1 !s110 1542149205
+!i10b 1
+!s100 ARD7QmZ2Nl`^nfJG>LCoJ1
+Idm9e73@jHHSOcg[FW;YI32
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1542149192
+Z4 8C:/Users/johna/OneDrive/Documents/Fall_2018/ECE_310/Project1/proj1_template.v
+Z5 FC:/Users/johna/OneDrive/Documents/Fall_2018/ECE_310/Project1/proj1_template.v
+L0 417
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1542149205.000000
+Z8 !s107 C:/Users/johna/OneDrive/Documents/Fall_2018/ECE_310/Project1/proj1_template.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/johna/OneDrive/Documents/Fall_2018/ECE_310/Project1/proj1_template.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vctr
+R1
+!i10b 1
+!s100 c8C9^5b00<AzClA><AZ^42
+I;Y?Pj`EA8gaJn:5kTEbS_0
+R2
+R0
+R3
+R4
+R5
+L0 136
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vdatapath
+R1
+!i10b 1
+!s100 MMCXlWb0eTCzVV;_bXU020
+IWJ[J2U[Wo5>G>IGDjH<L31
+R2
+R0
+R3
+R4
+R5
+L0 85
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vF3_out
+Z12 !s110 1547154799
+!i10b 1
+!s100 >86RUbkIJDiHA9G5<]nM[1
+I>LX6cT=S1nJR3I<IGE^RO0
+R2
+Z13 dC:/Users/johna/OneDrive - North Carolina State University/Fall_2018/ECE_310/Project1
+Z14 w1547154680
+Z15 8C:/Users/johna/OneDrive - North Carolina State University/Fall_2018/ECE_310/F3_out.v
+Z16 FC:/Users/johna/OneDrive - North Carolina State University/Fall_2018/ECE_310/F3_out.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z17 !s108 1547154799.000000
+Z18 !s107 C:/Users/johna/OneDrive - North Carolina State University/Fall_2018/ECE_310/F3_out.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/johna/OneDrive - North Carolina State University/Fall_2018/ECE_310/F3_out.v|
+!i113 1
+R10
+R11
+n@f3_out
+vF3_out_tb
+R12
+!i10b 1
+!s100 mZa:`IOCXH<=nB_D?g7@S0
+IO54n=>;`nz<^<DN`E@FI`3
+R2
+R13
+R14
+R15
+R16
+L0 12
+R6
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R10
+R11
+n@f3_out_tb
+vproj1
+R1
+!i10b 1
+!s100 _PF^TA?[2``9UE4^ioV_b2
+I`M>n;ED]YDl3B8[k:06d51
+R2
+R0
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vproj1_tb
+R1
+!i10b 1
+!s100 N^F3bdNaT`zfXG?7FJDEX2
+IG^j5QoH1i>=goa:T2g@O<0
+R2
+R0
+R3
+R4
+R5
+L0 424
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vram
+R1
+!i10b 1
+!s100 ozzNM[;Dmdk9h??g2R98X0
+IF7lD5LZIPNQ8d9QUAi2bm2
+R2
+R0
+R3
+R4
+R5
+L0 25
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vregisters
+R1
+!i10b 1
+!s100 SAj9k04YJ<@[^jfnkY59>0
+IRUMFnk_?Rl`BUJ^0j;T:61
+R2
+R0
+R3
+R4
+R5
+L0 46
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
